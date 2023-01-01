@@ -42,6 +42,9 @@ sections:
     content:
       title: Teaching
       text: Classes taught go here
+      filters:
+        folders:
+          - event
     design: 
       columns: '2'
       view: compact
