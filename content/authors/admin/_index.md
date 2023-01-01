@@ -71,7 +71,7 @@ social:
     link: https://www.dropbox.com/s/9lffqhan2ajrh8w/Cirriculum%20Vitae.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'bssweeting@ua.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
