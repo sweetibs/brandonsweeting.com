@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Talks & Travel
+      title: Upcoming Talks
       filters:
         folders:
           - event
