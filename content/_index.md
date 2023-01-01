@@ -15,7 +15,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks & Travel
       filters:
         folders:
           - event
@@ -25,7 +25,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Recent Publications
+      title: Publications & Preprints
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
