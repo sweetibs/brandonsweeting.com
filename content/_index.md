@@ -47,8 +47,8 @@ sections:
       order: desc
     design:
       # Choose a layout view
-      view: compact
       columns: '2'
+      view: compact
   - block: collection
     id: publications
     content:
@@ -64,6 +64,14 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: collection
+    id: teaching
+    content:
+      title: Teaching
+      text: Classes taught go here
+    design: 
+      columns: '2'
+      view: compact
   - block: contact
     id: contact
     content:
@@ -77,7 +85,7 @@ sections:
         postcode: '35401'
         country: United States
         country_code: US
-      directions: Gordon Palmer Hall 139
+      directions: Gordon Palmer Hall Room 139
       # Automatically link email and phone or display as text?
       autolink: true
     design:
