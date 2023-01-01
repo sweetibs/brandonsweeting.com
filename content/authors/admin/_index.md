@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Researcher in Mathematics
+role: Postdoctoral Researcher, Mathematics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -26,9 +26,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Harmonic Analysis
+  - Weighted Norm Inequalities
+  - Bellman Function Techniques
 
 # Education to show in About widget
 education:
