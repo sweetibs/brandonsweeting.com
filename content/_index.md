@@ -69,7 +69,6 @@ sections:
       title: Contact
       subtitle:
       email: bssweeting@ua.edu
-      phone: +1 (205) 348-5072
       address:
         street: 505 Hackberry Lane
         city: Tuscaloosa
@@ -77,10 +76,7 @@ sections:
         postcode: '35401'
         country: United States
         country_code: US
-      directions: Gordon Palmer Hall Room 139
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+      directions: Gordon Palmer Hall 139
       # Automatically link email and phone or display as text?
       autolink: true
     design:
