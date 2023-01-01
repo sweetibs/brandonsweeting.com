@@ -17,9 +17,9 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    org_name: 'Brandon Sweeting'
+    description: 'The personal website of Brandon Sweeting.'
+    twitter: 'BrandonSweeting'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
