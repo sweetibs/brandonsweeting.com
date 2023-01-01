@@ -48,15 +48,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.co.uk/citations?user=vyE2lLgAAAAJ&hl
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/BrandonSweeting
-    label: Follow me on Twitter
-    display:
-      header: true
-  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=vyE2lLgAAAAJ&hl
+  - icon: orcid
+    icon_pack: fab
+    link: https://orcid.org/0000-0003-3131-8460
   - icon: github
     icon_pack: fab
     link: https://github.com/sweetibs
@@ -68,7 +68,7 @@ social:
   # and uncomment the lines below.
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: https://www.dropbox.com/s/9lffqhan2ajrh8w/Cirriculum%20Vitae.pdf?dl=0
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
