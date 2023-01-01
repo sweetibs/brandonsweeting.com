@@ -61,7 +61,7 @@ sections:
         postcode: '35401'
         country: United States
         country_code: US
-      directions: Gordon Palmer Hall Room 139
+      directions: Gordon Palmer Hall 139
       # Automatically link email and phone or display as text?
       autolink: true
     design:
