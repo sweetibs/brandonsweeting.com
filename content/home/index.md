@@ -3,7 +3,9 @@
 type: "widget_page"
 # Homepage is headless, other widget pages are not.
 headless: true
+---
 
+---
 widget: about
 headless: true  # This file represents a page section.
 
