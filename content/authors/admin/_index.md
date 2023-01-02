@@ -49,4 +49,6 @@ title: Brandon Sweeting
 first_name: Brandon
 email: bssweeting@ua.edu
 ---
-Testing something out.
+I'm a postdoctoral researcher at The University of Alabama working in the analysis group under the mentorship of David Cruz-Uribe. I received my doctorate from the University of Cincinnati in 2021 under the supervision of Leonid Slavin.
+
+My current research interests are in harmonic analysis, specifically weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and operator weighted setting. I am also interested in dyadic techniques (Sparse domination, Corona decomposition, etc.) and Bellman functions for studying such inequalities.
