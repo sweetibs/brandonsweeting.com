@@ -3,7 +3,7 @@ widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Upcoming Talks
+title: Talks & Travel
 subtitle: ''
 
 # Position of this section on the page
