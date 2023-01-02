@@ -3,7 +3,7 @@ widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
 # Put Your Section Options Here (title, background, etc.) ...
-title: Recent Blog Posts
+title: Teaching
 subtitle: ''
 
 # Position of this section on the page
@@ -37,5 +37,3 @@ design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
 ---
-
-Check out my recent blog posts below!
