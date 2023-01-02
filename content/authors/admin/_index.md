@@ -1,11 +1,11 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests are in harmonic analysis, specifically weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and matrix setting. I am also interested in applications of Rubio de Francia extrapolation and in Bellman function techniques for proving sharp extimates.
 interests:
   - Harmonic Analysis
   - Weighted Norm Inequalities
   - Bellman Function Techniques
+  - Interpolation & Extrapolation
 social:
   - icon: envelope
     icon_pack: fas
