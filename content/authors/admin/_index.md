@@ -30,7 +30,7 @@ social:
     link: https://www.dropbox.com/s/9lffqhan2ajrh8w/Cirriculum%20Vitae.pdf?dl=0
 organizations:
   - name: The University of Alabama
-    url: https://www.ua.edu/
+    url: https://math.ua.edu
 education:
   courses:
     - course: PhD in Mathematics
