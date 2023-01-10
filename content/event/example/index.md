@@ -1,15 +1,15 @@
 ---
 title: Example Talk
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 2023 AMS Spring Central Sectional Meeting
+event_url: https://www.ams.org/meetings/sectional/2308_program.html
 
-location: Wowchemy HQ
+location: University of Cincinnati
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 2600 Clifton Ave
+  city: Cincinnati
+  region: OH
+  postcode: '45221'
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
