@@ -14,7 +14,7 @@ content:
   filters:
     # The folders to display content from
     folders:
-      - teaching
+      - publication
     tag: ''
     category: ''
     publication_type: ''
