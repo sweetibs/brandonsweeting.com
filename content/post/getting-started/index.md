@@ -1,9 +1,9 @@
 ---
 title: MATH 485/585 - Intro to Complex Variables
-subtitle: Some basic notions in complex analysis. Topics include analytic functions, complex integration, infinite series, contour integration, and conformal mappings.
+subtitle: 
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: Some basic notions in complex analysis. Topics include analytic functions, complex integration, infinite series, contour integration, and conformal mappings.
 
 # Link this post with a project
 projects: []
