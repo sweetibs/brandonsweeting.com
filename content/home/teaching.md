@@ -16,7 +16,7 @@ content:
     folders:
       - project
     tag: ''
-    category: ''
+    category: 'current'
     publication_type: ''
     author: ''
     featured_only: false
