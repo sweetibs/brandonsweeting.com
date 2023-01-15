@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests are in harmonic analysis, specifically weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and matrix setting. 
+bio: My current research interests are in harmonic analysis, specifically weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and matrix setting. 
 interests:
   - Harmonic Analysis
   - Weighted Norm Inequalities
