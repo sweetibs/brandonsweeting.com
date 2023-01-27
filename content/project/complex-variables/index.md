@@ -17,13 +17,13 @@ image:
 # Syllabus
 ***
 ## Course Meeting Times 
-
+Tuesday and Thursday 9:30AM - 10:45AM; Gordon Palmer Hall 151
 ## Prerequisites
-
+C- or higher in MATH 227 or C- or higher in MATH 247
 ## Description 
-
+Some basic notions in complex analysis. Topics include analytic functions, complex integration, infinite series, contour integration, and conformal mappings.
 ## Textbook
-
+*Fundamentals of Complex Analysis with Applications to Engineering, Science, and Mathematics (3rd Edition)* by Edward B. Saff and Arthur David Snider. Pearson. ISBN 978-0139078743
 ## Quizzes and Exams
 
 ## Collaboration
