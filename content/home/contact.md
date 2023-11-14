@@ -20,7 +20,7 @@ content:
     postcode: '35401'
     country: United States
     country_code: US
-  directions: Gordon Palmer Hall 139
+  directions: Gordon Palmer Hall 150
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
