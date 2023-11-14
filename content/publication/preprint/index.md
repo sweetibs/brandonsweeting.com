@@ -31,14 +31,7 @@ featured: false
 links:
 - name: arXiV
   url: https://arxiv.org/abs/2311.00828
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_pdf: https://arxiv.org/abs/2311.00828
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
