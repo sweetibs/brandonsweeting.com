@@ -14,7 +14,7 @@ social:
     icon_pack: ai
     link: https://scholar.google.com/citations?user=vyE2lLgAAAAJ
   - icon: arxiv
-    icon_pack: fab
+    icon_pack: ai
     link: http://arxiv.org/a/sweeting_b_1
   - icon: orcid
     icon_pack: fab
