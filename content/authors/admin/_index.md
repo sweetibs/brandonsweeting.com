@@ -27,7 +27,7 @@ social:
     link: https://www.linkedin.com/in/brandon-sweeting-97b80b162/
   - icon: cv
     icon_pack: ai
-    link: https://www.dropbox.com/s/9lffqhan2ajrh8w/Cirriculum%20Vitae.pdf?dl=0
+    link: static/uploads/cirriculum vitae.pdf
 organizations:
   - name: The University of Alabama
     url: https://math.ua.edu
