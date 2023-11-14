@@ -25,7 +25,10 @@ abstract: We prove quantitative, one-weight, weak-type estimates for maximal ope
 summary: We prove quantitative, one-weight, weak-type estimates for maximal operators, singular integrals, fractional maximal operators and fractional integral operators.
 
 tags:
-- Source Themes
+- Muckenhoupt Weights
+- Maximal Operator 
+- Singular Integrals
+- Riesz Potentials
 featured: false
 
 links:
