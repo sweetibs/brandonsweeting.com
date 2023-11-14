@@ -12,10 +12,10 @@ social:
     link: /#contact
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=vyE2lLgAAAAJ&hl
-  - icon: twitter
+    link: https://scholar.google.com/citations?user=vyE2lLgAAAAJ
+  - icon: arxiv
     icon_pack: fab
-    link: https://twitter.com/BrandonSweeting
+    link: http://arxiv.org/a/sweeting_b_1
   - icon: orcid
     icon_pack: fab
     link: https://orcid.org/0000-0003-3131-8460
