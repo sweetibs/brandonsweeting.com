@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Multiplier Weak-Type Inequalities for Maximal Operators and Singular Integrals
 
 event: Workshop in Analysis
 event_url: https://glivshyts6.math.gatech.edu/workshop_analysis_2023.html
@@ -12,8 +12,8 @@ address:
   postcode: '30332'
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: We discuss a kind of weak type inequality for the Hardy-Littlewood maximal operator and Calderón-Zygmund singular integral operators that was first studied by Muckenhoupt and Wheeden and later by Sawyer.
+abstract: 'We discuss a kind of weak type inequality for the Hardy-Littlewood maximal operator and Calderón-Zygmund singular integral operators that was first studied by Muckenhoupt and Wheeden and later by Sawyer. This formulation treats the weight for the image space as a multiplier, rather than a measure, leading to fundamentally different behavior; in particular, as shown by Muckenhoupt and Wheeden, the class of weights characterizing such inequalities is strictly larger than $A_p$. In this talk, I will discuss quantitative estimates obtained for $A_p$ weights, $p > 1$, that generalize those results obtained by Cruz-Uribe, Isralowitz, Moen, Pott and Rivera-Ríos for $p = 1$, both in the scalar and matrix weighted setting. I will also discuss an endpoint result for the Riesz potentials as well as recent work on the characterization of such weights.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
