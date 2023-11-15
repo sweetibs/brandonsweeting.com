@@ -4,12 +4,12 @@ title: Multiplier Weak-Type Inequalities for Maximal Operators and Singular Inte
 event: Joint Mathematics Meetings 2024
 event_url: https://www.jointmathematicsmeetings.org//jmm
 
-location: Georgia Institute of Technology
+location: Moscone Center
 address:
-  street: North Avenue
-  city: Atlanta
-  region: GA
-  postcode: '30332'
+  street: 747 Howard St
+  city: San Francisco
+  region: CA
+  postcode: '94103'
   country: United States
 
 summary: We discuss a kind of weak type inequality for the Hardy-Littlewood maximal operator and Calderón-Zygmund singular integral operators that was first studied by Muckenhoupt and Wheeden and later by Sawyer.
