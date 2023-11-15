@@ -36,10 +36,6 @@ links:
   url: https://arxiv.org/abs/2311.00828
 url_pdf: https://arxiv.org/pdf/2311.00828.pdf
 
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image: ""
-
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
