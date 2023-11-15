@@ -26,8 +26,8 @@ summary: We prove quantitative, one-weight, weak-type estimates for maximal oper
 
 tags:
 - Muckenhoupt Weights
-- Maximal Operator 
 - Singular Integrals
+- Maximal Operators 
 - Riesz Potentials
 featured: false
 
