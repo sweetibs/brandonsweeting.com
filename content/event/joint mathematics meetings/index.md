@@ -24,7 +24,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: '2023-11-01'
 
-authors: [David Cruz-Uribe, Brandon Sweeting]
+authors: [David Cruz-Uribe, admin]
 tags: []
 
 # Is this a featured talk? (true/false)
