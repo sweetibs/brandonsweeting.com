@@ -1,6 +1,6 @@
 ---
 avatar_filename: avatar.jpg
-bio: My research interests lie in harmonic analysis, where I specialize in the study of weighted norm inequalities for classical operators such as maximal functions, singular integrals, and Riesz potentials. I am interested in dyadic techniques for obtaining such estimates, including sparse domination and Bellman functions. I am also interested in the characterizations and structural properties of associated weight classes, their connections to geometry and PDE, and their extensions to other settings, such as matrix weights for vector-valued functions.
+bio: My current research interests are in harmonic analysis, specifically weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and matrix setting. 
 interests:
   - Harmonic Analysis
   - Weighted Norm Inequalities
@@ -51,4 +51,4 @@ email: bssweeting@ua.edu
 ---
 I'm a postdoctoral researcher in the analysis group at The University of Alabama working under the mentorship of [David Cruz-Uribe](https://math.ua.edu/people/david-cruz-uribe/). I received my doctorate degree from the University of Cincinnati in 2021 under the supervision of [Leonid Slavin](https://researchdirectory.uc.edu/p/slavinld/).
 
-My research interests lie in harmonic analysis, where I specialize in the study of weighted norm inequalities for classical operators such as maximal functions, singular integrals, and Riesz potentials. I am interested in dyadic techniques for obtaining such estimates, including sparse domination and Bellman functions. I am also interested in the characterizations and structural properties of associated weight classes, their connections to geometry and PDE, and their extensions to other settings, such as matrix weights for vector-valued functions.
+My research interests are in harmonic analysis–specifically, weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and operator weighted setting.
