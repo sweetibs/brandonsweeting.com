@@ -3,7 +3,7 @@ title: "Weighted weak-type inequalities for maximal operators and singular integ
 authors:
 - Zoe Nieraeth
 - Cody B. Stockdale
-date: "2023-11-01T00:00:00Z"
+date: "2024-01-28T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
