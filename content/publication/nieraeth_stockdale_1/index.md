@@ -1,5 +1,5 @@
 ---
-title: "Weighted weak-type inequalities for maximal operators and singular integrals"
+title: "Weighted weak-type bounds for multilinear singular integrals"
 authors:
 - Zoe Nieraeth
 - Cody B. Stockdale
