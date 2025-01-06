@@ -12,15 +12,15 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: bssweeting@ua.edu
+  email: sweeting@wustl.edu
   address:
-    street: 505 Hackberry Lane
-    city: Tuscaloosa
-    region: AL
-    postcode: '35401'
+    street: 1 Brookings Drive
+    city: St. Louis
+    region: MO
+    postcode: '63130'
     country: United States
     country_code: US
-  directions: Gordon Palmer Hall 150
+  directions: Cupples I Hall, Room 204B
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
