@@ -49,6 +49,6 @@ title: Brandon Sweeting
 first_name: Brandon
 email: sweeting@wustl.edu
 ---
-I am an NSF MPS-Ascend postdoctoral fellow in mathematics at Washington University in St. Louis, where I work under the mentorship of [Brett Wick](https://www.math.wustl.edu/~wick/). Previously, I was a postdoctoral researcher at the University of Alabama, mentored by [David Cruz-Uribe](https://math.ua.edu/people/david-cruz-uribe/). I earned my Ph.D. in Mathematics from the University of Cincinnati in 2021, under the guidance of [Leonid Slavin](https://researchdirectory.uc.edu/p/slavinld/).
+I am an NSF MPS-Ascend postdoctoral research fellow in mathematics at Washington University in St. Louis, where I work under the mentorship of [Brett Wick](https://www.math.wustl.edu/~wick/). Previously, I was a postdoctoral researcher at the University of Alabama, mentored by [David Cruz-Uribe](https://math.ua.edu/people/david-cruz-uribe/). I earned my Ph.D. in Mathematics from the University of Cincinnati in 2021, under the guidance of [Leonid Slavin](https://researchdirectory.uc.edu/p/slavinld/).
 
 My research interests are in harmonic analysis–specifically, weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and operator weighted setting.
