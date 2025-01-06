@@ -29,8 +29,8 @@ social:
     icon_pack: ai
     link: uploads/curriculum_vitae.pdf
 organizations:
-  - name: The University of Alabama
-    url: https://math.ua.edu
+  - name: Washington University in St. Louis
+    url: https://math.wustl.edu
 education:
   courses:
     - course: PhD in Mathematics
@@ -43,12 +43,12 @@ superuser: true
 status:
   icon: ☕️
 last_name: Sweeting
-role: Postdoctoral Researcher, Mathematics
+role: NSF MPS-Ascend Postdoctoral Fellow, Mathematics
 highlight_name: true
 title: Brandon Sweeting
 first_name: Brandon
-email: bssweeting@ua.edu
+email: sweeting@wustl.edu
 ---
-I'm a postdoctoral researcher in the analysis group at The University of Alabama working under the mentorship of [David Cruz-Uribe](https://math.ua.edu/people/david-cruz-uribe/). I received my doctorate degree from the University of Cincinnati in 2021 under the supervision of [Leonid Slavin](https://researchdirectory.uc.edu/p/slavinld/).
+I'm an NSF MPS-Ascend postdoctoral researher at Washington University in St. Louis working under the mentorship of [Brett Wick](https://www.math.wustl.edu/~wick/). Prior to this, I was a postdoctoral researcher at the University of Alabama working under the mentorship of [David Cruz-Uribe](https://math.ua.edu/people/david-cruz-uribe/). I received my doctorate degree from the University of Cincinnati in 2021 under the supervision of [Leonid Slavin](https://researchdirectory.uc.edu/p/slavinld/).
 
 My research interests are in harmonic analysis–specifically, weighted norm inequalities for singular integral operators and Riesz potentials in both the scalar and operator weighted setting.
