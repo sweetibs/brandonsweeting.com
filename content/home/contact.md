@@ -20,7 +20,7 @@ content:
     postcode: '63130'
     country: United States
     country_code: US
-  directions: Cupples I Hall, Room 204B
+  directions: Cupples I, Room 204B
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
