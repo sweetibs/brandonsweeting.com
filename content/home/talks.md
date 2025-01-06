@@ -1,4 +1,4 @@
----
+<!-- ---
 widget: pages # As of v5.8-dev, 'pages' is renamed 'collection'
 headless: true  # This file represents a page section.
 
@@ -36,4 +36,4 @@ design:
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '2'
----
+--- -->
