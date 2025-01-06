@@ -43,7 +43,7 @@ superuser: true
 status:
   icon: ☕️
 last_name: Sweeting
-role: NSF MPS-Ascend Postdoctoral Fellow, Mathematics
+role: NSF MPS-Ascend Postdoctoral Research Fellow, Mathematics
 highlight_name: true
 title: Brandon Sweeting
 first_name: Brandon
