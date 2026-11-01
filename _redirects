@@ -1,0 +1,7 @@
+# Old Wowchemy URLs from the previous site
+/publication/*   /publications   301
+/publication     /publications   301
+/project/*       /teaching       301
+/event/*         /research       301
+/talk/*          /research       301
+/highlights      /                301
